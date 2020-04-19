@@ -1,0 +1,62 @@
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+img {
+  border: 2px;
+}
+
+img:hover{
+  background-color: gainsboro;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.setselection {
+  height: 200px;
+}
+
+.skuselection {
+  height: 120px;
+  font-size: 20px;
+  align-content: center;
+}
+
+.skuselectiontext {
+font-size: 20px;
+align-content: center;
+}
+
+.skuselection:hover {
+  background-color:white;
+}
+
+.tablecolumn {
+  width: 200px;
+}
+
+#table1, #table2, #table3, #table4, #table5, #table6 {
+  display: none;
+}
+
+.skuselection3DUO {
+  height: 90px;
+  align-content: center;
+}
+
+.skuselection3DUOtext {
+font-size: 12px;
+align-content: center;
+}
+
+.skuselection3DUO:hover {
+  background-color:white;
+}
+
+.tablecolumn3DUO {
+  width: 100px;
+}
